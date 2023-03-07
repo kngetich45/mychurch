@@ -1,0 +1,53 @@
+{
+  "project_info": {
+    "project_number": "1075339896160",
+    "firebase_url": "https://bevics-church.firebaseio.com",
+    "project_id": "bevics-church",
+    "storage_bucket": "bevics-church.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075339896160:android:8da669a313bab7bdd66a05",
+        "android_client_info": {
+          "package_name": "com.bevics.church"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075339896160-3hatfhjv5vbgeh9pb643u18f7ucr3134.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bevics.church",
+            "certificate_hash": "b3ba2cae19e2788131ede518913e6a4709a87baa"
+          }
+        },
+        {
+          "client_id": "1075339896160-tacmoqv2fg22oat4vp3lnbjdso1cl6p4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bevics.church",
+            "certificate_hash": "5b5cb3cfd07fe52cf266d8d7e9490afa0b038cf0"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy-d-B8c4rR0SqUGe8EeAIMVSmcTMcaVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075339896160-nb5qjis5cc56ofd6s5vkqu2ofs88pup2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5610663024199475~9084476275"
+    }
+  ],
+  "configuration_version": "1"
+}
