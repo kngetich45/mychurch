@@ -14,8 +14,6 @@ import 'package:bevicschurch/ui/screens/auth/signInScreen.dart';
 import 'package:bevicschurch/ui/screens/auth/signUpScreen.dart';
 import 'package:bevicschurch/ui/screens/badgesScreen.dart';  
 import 'package:bevicschurch/ui/screens/coinHistoryScreen.dart'; 
- 
-
 import 'package:bevicschurch/ui/screens/referAndEarnScreen.dart';
 import 'package:bevicschurch/ui/screens/rewards/rewardsScreen.dart'; 
 
