@@ -3,7 +3,7 @@ import 'package:bevicschurch/ui/screens/chat/widget/groupInfoScreen.dart';
 import 'package:bevicschurch/ui/screens/dashboard/HomeSliderVideo.dart';
 import 'package:bevicschurch/ui/screens/dashboard/homeCategoryAll.dart';
 import 'package:bevicschurch/ui/screens/mediaAudioPlayer/audioPlayerScreen.dart';
- 
+import 'package:bevicschurch/ui/screens/introSliderScreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:bevicschurch/ui/screens/CaptureImageScreen.dart';
@@ -186,7 +186,8 @@ class Routes {
         return OtpScreen.route(routeSettings);
      case dashboard:
         return Dashboard.route(routeSettings); 
- 
+  case introSlider:
+        return CupertinoPageRoute(builder: (context) => IntroSliderScreen());
       case wallet:
         return WalletScreen.route(routeSettings);
       case captureImage:
