@@ -65,7 +65,6 @@ final String resentChatsKey = "resentChats";
 ///
 final String chatMessage = "ChatMessage";
  
-
 final String databaseUrl = "https://church.ilovemychurchapp.com";
 final String baseUrl = databaseUrl + '/Api/';
 
